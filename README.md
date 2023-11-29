@@ -25,7 +25,7 @@ Deployment
 The model was transformed into a usable product through a series of steps:
 
 - Flask Web Application: Created a lightweight web app to serve as the interface for real-time predictions.
-- 
+  
 - Docker Containerization: Packaged the Flask app and its dependencies into a Docker container for consistency across different computing environments.
 
 Continuous Integration and Continuous Deployment (CI/CD)
